@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "CaqYhlTYMGl3pD1tDY1gdY/CRT21Ro9on6J3nDGxolTw9C/iyXQ7BAnLJIY/ePdLE8oqJRcz6l9/ZY5JNmQISg==",
+  "dgSpecHash": "E1FN+Lka3yWrscygTlcLycJB6mCEvstXsRH/2xmYivoqbT7ToiVeHHT3jk7R6YXqYS8gEmQCHodbEqGVC0GrEQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Diego Sousa\\source\\repos\\AutoGlass\\AutoGlass.Infra\\AutoGlass.Infra.csproj",
+  "projectFilePath": "C:\\Users\\Diego Sousa\\Source\\Repos\\DiegoDavies\\DesenvolvimentoAutoGlass\\AutoGlass.Infra\\AutoGlass.Infra.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Diego Sousa\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\Diego Sousa\\.nuget\\packages\\fluentvalidation\\11.8.1\\fluentvalidation.11.8.1.nupkg.sha512",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0BVz6tRi63J+UnX6EGBW8AMXY1Nh0Iwe2NWqlYbUoZv7BoTGTle25VjcEj5KytaeDs7xhXDVMyFte09in9zthQ==",
+  "dgSpecHash": "SF3+OuLwCJ2YRfcK+TsqT2wqkEc0iGEO80BHRw6DHAQ5oszfCJmeFPAgcoSFI5OtwtWSqFgC6i4i/iLByASKrg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Diego Sousa\\source\\repos\\AutoGlass\\AutoGlass\\AutoGlass.csproj",
+  "projectFilePath": "C:\\Users\\Diego Sousa\\Source\\Repos\\DiegoDavies\\DesenvolvimentoAutoGlass\\AutoGlass\\AutoGlass.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Diego Sousa\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\Diego Sousa\\.nuget\\packages\\castle.core\\4.4.1\\castle.core.4.4.1.nupkg.sha512",

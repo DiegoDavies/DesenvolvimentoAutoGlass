@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Diego Sousa\\source\\repos\\AutoGlass\\AutoGlass.Domain\\AutoGlass.Domain.csproj": {}
+    "C:\\Users\\Diego Sousa\\Source\\Repos\\DiegoDavies\\DesenvolvimentoAutoGlass\\AutoGlass.Domain\\AutoGlass.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Diego Sousa\\source\\repos\\AutoGlass\\AutoGlass.Domain\\AutoGlass.Domain.csproj": {
+    "C:\\Users\\Diego Sousa\\Source\\Repos\\DiegoDavies\\DesenvolvimentoAutoGlass\\AutoGlass.Domain\\AutoGlass.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Diego Sousa\\source\\repos\\AutoGlass\\AutoGlass.Domain\\AutoGlass.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\Diego Sousa\\Source\\Repos\\DiegoDavies\\DesenvolvimentoAutoGlass\\AutoGlass.Domain\\AutoGlass.Domain.csproj",
         "projectName": "AutoGlass.Domain",
-        "projectPath": "C:\\Users\\Diego Sousa\\source\\repos\\AutoGlass\\AutoGlass.Domain\\AutoGlass.Domain.csproj",
+        "projectPath": "C:\\Users\\Diego Sousa\\Source\\Repos\\DiegoDavies\\DesenvolvimentoAutoGlass\\AutoGlass.Domain\\AutoGlass.Domain.csproj",
         "packagesPath": "C:\\Users\\Diego Sousa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Diego Sousa\\source\\repos\\AutoGlass\\AutoGlass.Domain\\obj\\",
+        "outputPath": "C:\\Users\\Diego Sousa\\Source\\Repos\\DiegoDavies\\DesenvolvimentoAutoGlass\\AutoGlass.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
