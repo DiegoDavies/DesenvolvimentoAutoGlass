@@ -1,0 +1,10 @@
+C:\Users\Diego Sousa\source\repos\AutoGlass\AutoGlass.Domain\bin\Debug\netcoreapp3.1\AutoGlass.Domain.deps.json
+C:\Users\Diego Sousa\source\repos\AutoGlass\AutoGlass.Domain\bin\Debug\netcoreapp3.1\AutoGlass.Domain.dll
+C:\Users\Diego Sousa\source\repos\AutoGlass\AutoGlass.Domain\bin\Debug\netcoreapp3.1\AutoGlass.Domain.pdb
+C:\Users\Diego Sousa\source\repos\AutoGlass\AutoGlass.Domain\obj\Debug\netcoreapp3.1\AutoGlass.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Diego Sousa\source\repos\AutoGlass\AutoGlass.Domain\obj\Debug\netcoreapp3.1\AutoGlass.Domain.AssemblyInfoInputs.cache
+C:\Users\Diego Sousa\source\repos\AutoGlass\AutoGlass.Domain\obj\Debug\netcoreapp3.1\AutoGlass.Domain.AssemblyInfo.cs
+C:\Users\Diego Sousa\source\repos\AutoGlass\AutoGlass.Domain\obj\Debug\netcoreapp3.1\AutoGlass.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Diego Sousa\source\repos\AutoGlass\AutoGlass.Domain\obj\Debug\netcoreapp3.1\AutoGlass.Domain.dll
+C:\Users\Diego Sousa\source\repos\AutoGlass\AutoGlass.Domain\obj\Debug\netcoreapp3.1\AutoGlass.Domain.pdb
+C:\Users\Diego Sousa\source\repos\AutoGlass\AutoGlass.Domain\obj\Debug\netcoreapp3.1\AutoGlass.Domain.csproj.AssemblyReference.cache

@@ -1,0 +1,16 @@
+C:\Users\Diego Sousa\source\repos\AutoGlass\AutoGlass.Infra\obj\Debug\netcoreapp3.1\AutoGlass.Infra.csproj.AssemblyReference.cache
+C:\Users\Diego Sousa\source\repos\AutoGlass\AutoGlass.Infra\obj\Debug\netcoreapp3.1\AutoGlass.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Diego Sousa\source\repos\AutoGlass\AutoGlass.Infra\obj\Debug\netcoreapp3.1\AutoGlass.Infra.AssemblyInfoInputs.cache
+C:\Users\Diego Sousa\source\repos\AutoGlass\AutoGlass.Infra\obj\Debug\netcoreapp3.1\AutoGlass.Infra.AssemblyInfo.cs
+C:\Users\Diego Sousa\source\repos\AutoGlass\AutoGlass.Infra\obj\Debug\netcoreapp3.1\AutoGlass.Infra.csproj.CoreCompileInputs.cache
+C:\Users\Diego Sousa\source\repos\AutoGlass\AutoGlass.Infra\bin\Debug\netcoreapp3.1\AutoGlass.Infra.deps.json
+C:\Users\Diego Sousa\source\repos\AutoGlass\AutoGlass.Infra\bin\Debug\netcoreapp3.1\AutoGlass.Infra.runtimeconfig.json
+C:\Users\Diego Sousa\source\repos\AutoGlass\AutoGlass.Infra\bin\Debug\netcoreapp3.1\AutoGlass.Infra.runtimeconfig.dev.json
+C:\Users\Diego Sousa\source\repos\AutoGlass\AutoGlass.Infra\bin\Debug\netcoreapp3.1\AutoGlass.Infra.dll
+C:\Users\Diego Sousa\source\repos\AutoGlass\AutoGlass.Infra\bin\Debug\netcoreapp3.1\AutoGlass.Infra.pdb
+C:\Users\Diego Sousa\source\repos\AutoGlass\AutoGlass.Infra\bin\Debug\netcoreapp3.1\AutoGlass.Domain.dll
+C:\Users\Diego Sousa\source\repos\AutoGlass\AutoGlass.Infra\bin\Debug\netcoreapp3.1\AutoGlass.Domain.pdb
+C:\Users\Diego Sousa\source\repos\AutoGlass\AutoGlass.Infra\obj\Debug\netcoreapp3.1\AutoGlass.Infra.csproj.CopyComplete
+C:\Users\Diego Sousa\source\repos\AutoGlass\AutoGlass.Infra\obj\Debug\netcoreapp3.1\AutoGlass.Infra.dll
+C:\Users\Diego Sousa\source\repos\AutoGlass\AutoGlass.Infra\obj\Debug\netcoreapp3.1\AutoGlass.Infra.pdb
+C:\Users\Diego Sousa\source\repos\AutoGlass\AutoGlass.Infra\obj\Debug\netcoreapp3.1\AutoGlass.Infra.genruntimeconfig.cache
